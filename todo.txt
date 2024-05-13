@@ -1,2 +1,1 @@
-Star/Essence pricing
-Pets pricing
+Migrate to CoralAPI when i release 0.2!
